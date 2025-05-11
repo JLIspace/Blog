@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes-jekyll@1e8a445"
+theme: jekyll-theme-minimal
 title: "My Awesome Blog"
 description: "This is my personal blog"
 url: "https://jlispace.github.io"
